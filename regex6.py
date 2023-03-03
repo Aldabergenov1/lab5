@@ -1,3 +1,3 @@
 import re
-text = input()
+text = "Hey there, Mister"
 print(re.sub("[ ,.]", ":", text))
